@@ -11,7 +11,7 @@ I'm a passionate developer who loves building cool stuff and learning new techno
 - 🌱 I’m learning **TypeScript**, **Next.js**, and **AI/ML**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **JavaScript**, **React**, **Python**, or anything tech-related!
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)** | **Email: your@email.com**
+- 📫 How to reach me: **[LinkedIn]https://www.linkedin.com/in/prashant-chaudhary-424330307/** | **Email: prashant18996@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love memes, and I think in code 💻
 
@@ -49,14 +49,11 @@ I'm a passionate developer who loves building cool stuff and learning new techno
 
 ### 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/prashant-chaudhary-424330307/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:prashant18996@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 ---
