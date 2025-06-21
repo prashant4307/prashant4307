@@ -34,7 +34,7 @@ I'm a passionate developer who loves building cool stuff and learning new techno
 ### 🔥 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant4307&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant4307&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
