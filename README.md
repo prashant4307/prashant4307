@@ -11,7 +11,7 @@ I'm a passionate developer who loves building cool stuff and learning new techno
 - 🌱 I’m learning **TypeScript**, **Next.js**, and **AI/ML**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **JavaScript**, **React**, **Python**, or anything tech-related!
-- 📫 How to reach me: **[LinkedIn]https://www.linkedin.com/in/prashant-chaudhary-424330307/** | **Email: prashant18996@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/prashant-chaudhary-424330307/)** | **Email: prashant18996@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love memes, and I think in code 💻
 
